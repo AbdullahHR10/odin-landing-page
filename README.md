@@ -1,1 +1,1 @@
-# odin-landing-page
+This project is part of the Odin foundations course.
