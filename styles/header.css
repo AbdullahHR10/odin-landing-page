@@ -1,0 +1,23 @@
+header {
+    height: 6vh;
+    color: white;
+    background-color: #1f2937;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav-links {
+    display: flex;
+    gap: 3rem; 
+    list-style: none;
+}
+
+.nav-links a {
+    color: white;
+    text-decoration: none;
+}
+
+.nav-links li a:hover {
+    cursor: pointer;
+}
