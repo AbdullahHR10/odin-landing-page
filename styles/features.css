@@ -1,0 +1,41 @@
+.features {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 3rem 0 6rem 0;
+}
+
+.features h1 {
+    margin-bottom: 3rem;
+}
+
+.features-list {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.feature {
+    width: 20rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.feature-img-container {
+    width: 50%;
+    border-radius: 0.5rem;
+}
+
+.feature h3 {
+    font-size: 1.2rem;
+}
+
+.feature p {
+    width: 80%;
+    font-size: 1rem;
+}
